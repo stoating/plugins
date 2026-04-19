@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "clojure-polylith",
+      "name": "polylith",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-polylith-skill"
@@ -17,7 +17,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-aero",
+      "name": "aero",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-aero-skill"
@@ -26,7 +26,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-babashka",
+      "name": "babashka",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-babashka-skill"
@@ -35,7 +35,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-integrant",
+      "name": "integrant",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-integrant-skill"
@@ -44,7 +44,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-flow-storm",
+      "name": "flow-storm",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-flow-storm-skill"
@@ -53,7 +53,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-hiccup",
+      "name": "hiccup",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-hiccup-skill"
@@ -62,7 +62,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-malli",
+      "name": "malli",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-malli-skill"
@@ -71,7 +71,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-portal",
+      "name": "portal",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-portal-skill"
@@ -80,7 +80,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-reagent",
+      "name": "reagent",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-reagent-skill"
@@ -89,7 +89,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-replicant",
+      "name": "replicant",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-replicant-skill"
@@ -98,7 +98,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-reitit",
+      "name": "reitit",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-reitit-skill"
@@ -107,7 +107,7 @@
       "version": "0.1.0"
     },
     {
-      "name": "clojure-shadow-cljs",
+      "name": "shadow-cljs",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-shadow-cljs-skill"
