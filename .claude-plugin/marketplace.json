@@ -1,0 +1,20 @@
+{
+  "name": "stoating",
+  "metadata": {
+    "description": "stoating's Claude Code plugins — skills and tools for AI coding agents."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-polylith",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-polylith-skill"
+      },
+      "description": "Clojure Polylith skill — components, bases, projects, interfaces, poly commands, workspace configuration, profiles, incremental testing, and setup.",
+      "version": "0.1.0"
+    }
+  ]
+}
