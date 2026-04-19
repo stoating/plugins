@@ -26,12 +26,30 @@
       "version": "0.1.0"
     },
     {
+      "name": "clojure-babashka",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-babashka-skill"
+      },
+      "description": "Clojure Babashka skill - fast-starting bb scripts, bb.edn tasks, built-in namespaces, deps, pods, shell/process interop, CLIs, and SCI compatibility.",
+      "version": "0.1.0"
+    },
+    {
       "name": "clojure-integrant",
       "source": {
         "source": "github",
         "repo": "stoating/clojure-integrant-skill"
       },
       "description": "Clojure Integrant skill — data-driven application architecture, init-key, halt-key!, suspend/resume, refs, refsets, composite keys, derived keywords, profiles, vars, expand-key, and REPL workflow.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "clojure-flow-storm",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-flow-storm-skill"
+      },
+      "description": "Clojure FlowStorm skill - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits.",
       "version": "0.1.0"
     },
     {
@@ -59,6 +77,15 @@
         "repo": "stoating/clojure-portal-skill"
       },
       "description": "Clojure Portal skill — tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "clojure-reagent",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-reagent-skill"
+      },
+      "description": "ClojureScript Reagent skill — Hiccup components, ratoms, reactions, rendering roots, React interop, hooks, compiler options, SSR, controlled inputs, and React 19 setup.",
       "version": "0.1.0"
     },
     {
