@@ -35,6 +35,24 @@
       "version": "0.1.0"
     },
     {
+      "name": "clojure-hiccup",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-hiccup-skill"
+      },
+      "description": "Clojure Hiccup skill - HTML-as-data syntax, hiccup2.core rendering, escaping, raw HTML, render modes, page/form helpers, and safe server-side HTML generation.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "clojure-portal",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-portal-skill"
+      },
+      "description": "Clojure Portal skill — tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers.",
+      "version": "0.1.0"
+    },
+    {
       "name": "clojure-replicant",
       "source": {
         "source": "github",
@@ -50,6 +68,15 @@
         "repo": "stoating/clojure-reitit-skill"
       },
       "description": "Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "clojure-shadow-cljs",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-shadow-cljs-skill"
+      },
+      "description": "ClojureScript shadow-cljs skill - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting.",
       "version": "0.1.0"
     }
   ]
