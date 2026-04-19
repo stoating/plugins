@@ -35,6 +35,15 @@
       "version": "0.1.0"
     },
     {
+      "name": "clojure-mcp",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-clojure-mcp-skill"
+      },
+      "description": "ClojureMCP skill - MCP server setup, CLI assistant and Claude Desktop integration, nREPL connection, tool profiles, config.edn, custom tools/prompts/resources, and troubleshooting.",
+      "version": "0.1.0"
+    },
+    {
       "name": "integrant",
       "source": {
         "source": "github",
