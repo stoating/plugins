@@ -44,6 +44,15 @@
       "version": "0.1.0"
     },
     {
+      "name": "clojure-malli",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-malli-skill"
+      },
+      "description": "Clojure Malli skill - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage.",
+      "version": "0.1.0"
+    },
+    {
       "name": "clojure-portal",
       "source": {
         "source": "github",
