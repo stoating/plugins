@@ -132,6 +132,15 @@
       },
       "description": "Clojure style guide skill — formatting, naming, idiomatic patterns, namespace organization, functions, macros, documentation, and testing conventions.",
       "version": "0.1.0"
+    },
+    {
+      "name": "datomic",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-datomic-skill"
+      },
+      "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices.",
+      "version": "0.1.0"
     }
   ]
 }
