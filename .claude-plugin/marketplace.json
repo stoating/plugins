@@ -13,8 +13,7 @@
         "source": "github",
         "repo": "stoating/clojure-polylith-skill"
       },
-      "description": "Clojure Polylith skill — components, bases, projects, interfaces, poly commands, workspace configuration, profiles, incremental testing, and setup.",
-      "version": "0.1.0"
+      "description": "Clojure Polylith skill — components, bases, projects, interfaces, poly commands, workspace configuration, profiles, incremental testing, and setup."
     },
     {
       "name": "aero",
@@ -30,8 +29,7 @@
         "source": "github",
         "repo": "stoating/clojure-babashka-skill"
       },
-      "description": "Clojure Babashka skill - fast-starting bb scripts, bb.edn tasks, built-in namespaces, deps, pods, shell/process interop, CLIs, and SCI compatibility.",
-      "version": "0.1.0"
+      "description": "Clojure Babashka skill — fast-starting bb scripts, bb.edn tasks, built-in namespaces, deps, pods, shell/process interop, CLIs, and SCI compatibility."
     },
     {
       "name": "clojure-mcp",
@@ -39,8 +37,7 @@
         "source": "github",
         "repo": "stoating/clojure-clojure-mcp-skill"
       },
-      "description": "ClojureMCP skill - MCP server setup, CLI assistant and Claude Desktop integration, nREPL connection, tool profiles, config.edn, custom tools/prompts/resources, and troubleshooting.",
-      "version": "0.1.0"
+      "description": "ClojureMCP skill — MCP server setup, CLI assistant and Claude Desktop integration, nREPL connection, tool profiles, config.edn, custom tools/prompts/resources, and troubleshooting."
     },
     {
       "name": "integrant",
@@ -48,8 +45,7 @@
         "source": "github",
         "repo": "stoating/clojure-integrant-skill"
       },
-      "description": "Clojure Integrant skill — data-driven application architecture, init-key, halt-key!, suspend/resume, refs, refsets, composite keys, derived keywords, profiles, vars, expand-key, and REPL workflow.",
-      "version": "0.1.0"
+      "description": "Clojure Integrant skill — data-driven application architecture, init-key, halt-key!, suspend/resume, refs, refsets, composite keys, derived keywords, profiles, vars, expand-key, and REPL workflow."
     },
     {
       "name": "flow-storm",
@@ -57,8 +53,7 @@
         "source": "github",
         "repo": "stoating/clojure-flow-storm-skill"
       },
-      "description": "Clojure FlowStorm skill - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits.",
-      "version": "0.1.0"
+      "description": "Clojure FlowStorm skill - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits."
     },
     {
       "name": "hiccup",
@@ -66,8 +61,7 @@
         "source": "github",
         "repo": "stoating/clojure-hiccup-skill"
       },
-      "description": "Clojure Hiccup skill - HTML-as-data syntax, hiccup2.core rendering, escaping, raw HTML, render modes, page/form helpers, and safe server-side HTML generation.",
-      "version": "0.1.0"
+      "description": "Clojure Hiccup skill - HTML-as-data syntax, hiccup2.core rendering, escaping, raw HTML, render modes, page/form helpers, and safe server-side HTML generation."
     },
     {
       "name": "malli",
@@ -75,8 +69,7 @@
         "source": "github",
         "repo": "stoating/clojure-malli-skill"
       },
-      "description": "Clojure Malli skill - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage.",
-      "version": "0.1.0"
+      "description": "Clojure Malli skill - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage."
     },
     {
       "name": "portal",
@@ -84,8 +77,7 @@
         "source": "github",
         "repo": "stoating/clojure-portal-skill"
       },
-      "description": "Clojure Portal skill — tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers.",
-      "version": "0.1.0"
+      "description": "Clojure Portal skill — tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers."
     },
     {
       "name": "reagent",
@@ -93,8 +85,7 @@
         "source": "github",
         "repo": "stoating/clojure-reagent-skill"
       },
-      "description": "ClojureScript Reagent skill — Hiccup components, ratoms, reactions, rendering roots, React interop, hooks, compiler options, SSR, controlled inputs, and React 19 setup.",
-      "version": "0.1.0"
+      "description": "ClojureScript Reagent skill — Hiccup components, ratoms, reactions, rendering roots, React interop, hooks, compiler options, SSR, controlled inputs, and React 19 setup."
     },
     {
       "name": "replicant",
@@ -102,8 +93,7 @@
         "source": "github",
         "repo": "stoating/clojure-replicant-skill"
       },
-      "description": "Clojure Replicant skill — data-driven DOM and string rendering, hiccup syntax, aliases, event handlers, life-cycle hooks, CSS transitions, and node memory.",
-      "version": "0.1.0"
+      "description": "Clojure Replicant skill — data-driven DOM and string rendering, hiccup syntax, aliases, event handlers, life-cycle hooks, CSS transitions, and node memory."
     },
     {
       "name": "reitit",
@@ -111,8 +101,7 @@
         "source": "github",
         "repo": "stoating/clojure-reitit-skill"
       },
-      "description": "Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors.",
-      "version": "0.1.0"
+      "description": "Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors."
     },
     {
       "name": "shadow-cljs",
@@ -120,8 +109,7 @@
         "source": "github",
         "repo": "stoating/clojure-shadow-cljs-skill"
       },
-      "description": "ClojureScript shadow-cljs skill - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting.",
-      "version": "0.1.0"
+      "description": "ClojureScript shadow-cljs skill - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting."
     },
     {
       "name": "clojure",
@@ -129,8 +117,7 @@
         "source": "github",
         "repo": "stoating/clojure-clojure-skill"
       },
-      "description": "Clojure style guide skill — formatting, naming, idiomatic patterns, namespace organization, functions, macros, documentation, and testing conventions.",
-      "version": "0.1.0"
+      "description": "Clojure style guide skill — formatting, naming, idiomatic patterns, namespace organization, functions, macros, documentation, and testing conventions."
     },
     {
       "name": "datomic",
@@ -138,8 +125,7 @@
         "source": "github",
         "repo": "stoating/clojure-datomic-skill"
       },
-      "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices.",
-      "version": "0.1.0"
+      "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices."
     }
   ]
 }
