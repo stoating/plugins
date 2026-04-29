@@ -40,6 +40,7 @@ To update the catalog later:
 | `reitit` | `/plugin install reitit@stoating` | Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors |
 | `shadow-cljs` | `/plugin install shadow-cljs@stoating` | ClojureScript shadow-cljs skill — project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting |
 | `clojure` | `/plugin install clojure@stoating` | Clojure style guide skill — formatting, naming, idiomatic patterns, namespace organization, functions, macros, documentation, and testing conventions |
+| `dataspex` | `/plugin install dataspex@stoating` | Clojure Dataspex skill — point-and-click data browser, inspect/uninspect API, atoms, taps, Datascript/Datomic/Datalevin/Datahike connections, browser extension, remote server, and custom rendering protocols |
 
 ---
 
@@ -63,3 +64,4 @@ Each plugin is also available as a standalone single-plugin marketplace from its
 | `reitit` | [stoating/clojure-reitit-skill](https://github.com/stoating/clojure-reitit-skill) | `/plugin marketplace add stoating/clojure-reitit-skill` then `/plugin install reitit@clojure-reitit-skill` |
 | `shadow-cljs` | [stoating/clojure-shadow-cljs-skill](https://github.com/stoating/clojure-shadow-cljs-skill) | `/plugin marketplace add stoating/clojure-shadow-cljs-skill` then `/plugin install shadow-cljs@clojure-shadow-cljs-skill` |
 | `clojure` | [stoating/clojure-clojure-skill](https://github.com/stoating/clojure-clojure-skill) | `/plugin marketplace add stoating/clojure-clojure-skill` then `/plugin install clojure@clojure-clojure-skill` |
+| `dataspex` | [stoating/clojure-dataspex-skill](https://github.com/stoating/clojure-dataspex-skill) | `/plugin marketplace add stoating/clojure-dataspex-skill` then `/plugin install dataspex@clojure-dataspex-skill` |

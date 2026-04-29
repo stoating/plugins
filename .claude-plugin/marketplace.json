@@ -126,6 +126,14 @@
         "repo": "stoating/clojure-datomic-skill"
       },
       "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices."
+    },
+    {
+      "name": "dataspex",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-dataspex-skill"
+      },
+      "description": "Clojure Dataspex skill — point-and-click data browser, inspect/uninspect API, atoms, taps, Datascript/Datomic/Datalevin/Datahike connections, browser extension, remote server, and custom rendering protocols (IRenderInline, IRenderDictionary, IRenderTable, IRenderSource, IRenderHiccup, IPrefersView, IDiffable)."
     }
   ]
 }
