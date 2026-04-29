@@ -134,6 +134,14 @@
         "repo": "stoating/clojure-dataspex-skill"
       },
       "description": "Clojure Dataspex skill — point-and-click data browser, inspect/uninspect API, atoms, taps, Datascript/Datomic/Datalevin/Datahike connections, browser extension, remote server, and custom rendering protocols (IRenderInline, IRenderDictionary, IRenderTable, IRenderSource, IRenderHiccup, IPrefersView, IDiffable)."
+    },
+    {
+      "name": "nexus",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-nexus-skill"
+      },
+      "description": "Clojure Nexus skill — zero-dependency action dispatch, actions/effects/placeholders, system->state, batching, async effects, nexus.registry, interceptors, fail-fast strategy, and Dataspex action-log integration."
     }
   ]
 }
