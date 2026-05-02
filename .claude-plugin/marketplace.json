@@ -150,6 +150,22 @@
         "repo": "stoating/clojure-portfolio-skill"
       },
       "description": "ClojureScript Portfolio skill — defscene, framework adapters (Reagent/React/Replicant/Rum/Dumdom), shadow-cljs :portfolio target, scene organization, UI customization (background/viewport/grid/CSS), tap> REPL usage, and disabling in production."
+    },
+    {
+      "name": "cheshire",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-cheshire-skill"
+      },
+      "description": "Clojure Cheshire skill — JSON/SMILE/CBOR encoding and decoding, generate-string, parse-string, custom encoders, JSONable protocol, factory configuration, lazy parsing, and anti-patterns."
+    },
+    {
+      "name": "ring",
+      "source": {
+        "source": "github",
+        "repo": "stoating/clojure-ring-skill"
+      },
+      "description": "Clojure Ring skill — Ring spec, handlers, middleware, request/response maps, Jetty adapter, WebSockets, sessions, cookies, params, async handlers, and anti-patterns."
     }
   ]
 }
